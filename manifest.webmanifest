@@ -1,0 +1,9 @@
+{
+  "name": "ATİLLA AI",
+  "short_name": "ATİLLA AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050914",
+  "theme_color": "#050914",
+  "icons": [{"src":"icon.png","sizes":"1024x1024","type":"image/png"}]
+}
